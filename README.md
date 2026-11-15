@@ -2,7 +2,7 @@
 
 NASA Space Apps Challenge 2026, challenge "Field Shift: Adapting Farms with NASA Data".
 
-Replay45 takes every crop rotation that farmers near a field, or farmers in the place that used to have its weather, could grow. It runs each one through 45 real seasons of NASA weather on that field's soil, then measures each rotation by risk as well as yield: average harvest, bad-year harvest, and which crops fail in the same years. Nothing is forecast. The farmer decides.
+Replay45 takes every crop rotation that farmers near a field, or farmers in the place that used to have its weather, could grow. It runs each one through 45 real seasons of NASA weather on that field's soil, then measures each rotation by risk as well as yield: average harvest, bad-year harvest, and which crops fail in the same years. Nothing is forecasted the farmer decides everything.
 
 ## Files
 
